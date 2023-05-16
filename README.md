@@ -1,14 +1,14 @@
 # PCB Business Card with TicTacToe
-###Main Points
+#Main Points
 - Designed around the Texas Instruments MSP430 series [g2553 16 bit MCU](https://www.ti.com/product/MSP430G2553).
-- PCB schematics and board layout files are included.
+- PCB schematics and board layout files for EAGLE are included.
 - The PCB allows to play vs another human OR vs minimax algorithem.
 
-###Image
-![](https://i.postimg.cc/wxfDSnX6/Untitled.png)
+#Image
+![](https://i.ibb.co/mGN6K27/Untitled.png)
 
 
-###MCU LEDs pinout
+#MCU LEDs pinout
 MCU Pin | LED |MCU Pin | LED |MCU Pin | LED 
 :-----:|:----:|:----:|:----:|:----:|:----:
 P3.4  |  BLUE 2   |   P3.1  |  BLUE 1  |   P1.0  | BLUE 0
